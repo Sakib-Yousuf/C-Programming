@@ -1,3 +1,4 @@
+//this code is done by sakib
 #include <stdio.h>
 void sakura(int n);
 int main()
