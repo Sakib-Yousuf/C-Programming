@@ -1,3 +1,4 @@
+///this prog addds two nums
 #include <stdio.h>
 int main()
 {
